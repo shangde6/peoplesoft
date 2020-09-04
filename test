@@ -1,2 +1,6 @@
 local string  &str;
 &str = 'abc';
+
+&str = 'abc';
+&str = 'abc';
+&str = 'abc';
